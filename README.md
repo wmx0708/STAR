@@ -1,5 +1,5 @@
-# TrafficBT
-Code of the Paper “TrafficBT: Advancing Pre-trained Language Models for Network Traffic Classification with Multimodal Traffic Representations”
+# STAR
+Code of the Paper “STAR: Semantic and Spatio-Temporal Aligned Representations for Traffic Classification via Pre-trained Language Models”
 
 PyTorch 2.1.2 NVIDIA A800（4090 is OK）
 
